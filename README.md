@@ -109,8 +109,17 @@ django-blog/
 ### Home Page
 ![Home Page](screenshots/w02.png)
 
+
 ## Contributing
 Feel free to contribute by opening a pull request or reporting any issues.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Devloper
+**AVI (Piyush Negi)**
+
+- [GitHub](https://github.com/Piyushnegi04)
+- [LinkedIn](https://www.linkedin.com/in/piyush-singh-negi-807b6a188/)
+- [Portfolio](https://portfoliopsn.netlify.app/)
+  
